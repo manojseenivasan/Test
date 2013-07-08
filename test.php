@@ -1,6 +1,4 @@
-<? echosdgsd "fsdfbdb";?>
-sgsdgsd
-dfvsdgfhfghfg
-fdgfdgdf
-fdhgfdgdfh
-dhdf
+rftgssdfg sgsgsdgsdg
+sdgsdgsd
+ sfgssdfgsd
+ g sgsdgs sgs
