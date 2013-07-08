@@ -1,5 +1,6 @@
-<? echo "fsdfbdb";?>
-dfdsfsdgsd
+<? echosdgsd "fsdfbdb";?>
+sgsdgsd
+dfvsd
 sdgfdgfd
 fdgfdgdf
 fdhgfdgdfh
