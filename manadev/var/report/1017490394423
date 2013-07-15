@@ -1,0 +1,9 @@
+a:5:{i:0;s:273:"Error in file: "/var/www/USERS/Marimuthu/manadev/app/code/local/Ewall/Filters/sql/ewall_filters_setup/mysql4-install-1.1.1.php" - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '31-is_enabled' for key 'UNQ_EAV_ATTRIBUTE_ENTITY_TYPE_ID_ATTRIBUTE_CODE'";i:1;s:1024:"#0 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(421): Mage_Core_Model_Resource_Setup->_modifyResourceDb('install', '', '13.05.25.23')
+#2 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(327): Mage_Core_Model_Resource_Setup->_installResourceDb('13.05.25.23')
+#3 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/App.php(417): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/App.php(343): Mage_Core_Model_App->_initModules()
+#6 /var/www/USERS/Marimuthu/manadev/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#7 /var/www/USERS/Marimuthu/manadev/index.php(87): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:119:"/USERS/Marimuthu/manadev/index.php/admin/system_config/edit/section/ewall_filters/key/1096306e6e9a949a047cf428ef22f2b8/";s:11:"script_name";s:34:"/USERS/Marimuthu/manadev/index.php";s:4:"skin";s:7:"default";}

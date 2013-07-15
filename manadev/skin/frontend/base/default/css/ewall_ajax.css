@@ -1,0 +1,15 @@
+/**
+ * @category    Ewall
+ * @package     Ewall_Ajax
+ * @copyright   Copyright (c) http://www.ewalldev.com
+ * @license     http://www.ewalldev.com/license  Proprietary License
+ */
+.m-overlay {
+    position: absolute;
+    background: white; /*url('../images/ewall_filterajax/overlay.gif');*/
+    filter:alpha(opacity=0);/* percent */
+    -moz-opacity:0;
+    -khtml-opacity: 0;
+    opacity: 0;
+    z-index: 10000;
+}

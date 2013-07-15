@@ -1,0 +1,8 @@
+/**
+ * @category    Ewall
+ * @package     Ewall_FilterRadios
+ * @copyright   Copyright (c) http://www.ewalldev.com
+ * @license     http://www.ewalldev.com/license  Proprietary License
+ */
+
+.m-filter-radios li input { margin-right: 5px; position: relative; bottom: 2px; }

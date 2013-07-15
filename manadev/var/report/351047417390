@@ -1,0 +1,9 @@
+a:5:{i:0;s:203:"Error in file: "/var/www/USERS/Marimuthu/manadev/app/code/local/Ewall/Core/sql/ewall_core_setup/mysql4-install-0.1.0.php" - SQLSTATE[42000]: Syntax error or access violation: 1103 Incorrect table name ''";i:1;s:1012:"#0 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(645): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(421): Mage_Core_Model_Resource_Setup->_modifyResourceDb('install', '', '0.1.0')
+#2 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(327): Mage_Core_Model_Resource_Setup->_installResourceDb('0.1.0')
+#3 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/Resource/Setup.php(235): Mage_Core_Model_Resource_Setup->applyUpdates()
+#4 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/App.php(417): Mage_Core_Model_Resource_Setup::applyAllUpdates()
+#5 /var/www/USERS/Marimuthu/manadev/app/code/core/Mage/Core/Model/App.php(343): Mage_Core_Model_App->_initModules()
+#6 /var/www/USERS/Marimuthu/manadev/app/Mage.php(683): Mage_Core_Model_App->run(Array)
+#7 /var/www/USERS/Marimuthu/manadev/index.php(87): Mage::run('', 'store')
+#8 {main}";s:3:"url";s:98:"/USERS/Marimuthu/manadev/index.php/admin/ewall_filters/index/key/e31200971f2550a051cf9016818a217d/";s:11:"script_name";s:34:"/USERS/Marimuthu/manadev/index.php";s:4:"skin";s:7:"default";}
